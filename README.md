@@ -3,6 +3,9 @@
 
 ## 環境構築
 
+#### GoogleService-Info.plist ####
+[Firebaseコンソール](https://console.firebase.google.com/)から GoogleService-Info.plist をダウンロードし、Config/Development or Production/GoogleService-Info.plist に配置する。
+
 #### Xcodeのインストール ####
 App Store からインストール
 

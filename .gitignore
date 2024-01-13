@@ -47,10 +47,11 @@ DerivedData/
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,cocoapods
 
-# Bundler
-vendor/bundle
 
 # XcodeProjet
 *.xcworkspace
 *.xcodeproj
+
+# GoogleService-Info.plist
+GoogleService-Info.plist
 
